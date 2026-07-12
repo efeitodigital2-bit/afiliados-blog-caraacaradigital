@@ -1,0 +1,31 @@
+{
+  "theme": "produtos",
+  "categories": [
+    {
+      "value": "produtos",
+      "label": "Produtos"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Produtos"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-produtos-1.jpg",
+      "label": "Produtos Premium"
+    },
+    {
+      "value": "/recommended-produtos-2.jpg",
+      "label": "Produtos Custo-Benefício"
+    },
+    {
+      "value": "/recommended-produtos-3.jpg",
+      "label": "Melhores Produtos"
+    }
+  ]
+}
