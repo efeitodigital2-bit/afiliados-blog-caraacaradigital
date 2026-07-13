@@ -2,7 +2,7 @@
 title: "Ferramentas Digitais para o Cidadão Ativo: Os Melhores Aplicativos Políticos que Você Precisa Ter (Gratuitos e Pagos)"
 description: "Ferramentas Digitais para o Cidadão Ativo: Os Melhores Aplicativos Políticos que Você Precisa Ter (Gratuitos e Pagos)"
 pubDate: "2026-07-13"
-heroImage: "/images/ferramentas-digitais-para-o-cidadao-ativo-os-melhores-aplicativos-politicos-que-.jpg"
+heroImage: "/images/posts/ferramentas-digitais-para-o-cidadao-ativo-os-melhores-aplicativos-politicos-que-.jpg"
 tags:
   - "ferramentas digitais"
   - "política"
