@@ -2,7 +2,7 @@
 title: "Torne-se um consumidor ativista: produtos que refletem seus valores [Passo a Passo]"
 description: "Torne-se um consumidor ativista: produtos que refletem seus valores [Passo a Passo]"
 pubDate: "2026-07-13"
-heroImage: "/images/torne-se-um-consumidor-ativista-produtos-que-refletem-seus-valores-passo-a-passo.jpg"
+heroImage: "/images/posts/torne-se-um-consumidor-ativista-produtos-que-refletem-seus-valores-passo-a-passo.jpg"
 tags:
   - "consumidor ativista"
   - "sustentabilidade"
