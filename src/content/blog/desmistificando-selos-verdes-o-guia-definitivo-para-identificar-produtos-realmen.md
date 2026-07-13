@@ -2,7 +2,7 @@
 title: "Desmistificando Selos Verdes: O Guia Definitivo para Identificar Produtos Realmente Sustentáveis"
 description: "Desmistificando Selos Verdes: O Guia Definitivo para Identificar Produtos Realmente Sustentáveis"
 pubDate: "2026-07-13"
-heroImage: "/images/desmistificando-selos-verdes-o-guia-definitivo-para-identificar-produtos-realmen.jpg"
+heroImage: "/images/posts/desmistificando-selos-verdes-o-guia-definitivo-para-identificar-produtos-realmen.jpg"
 tags:
   - "sustentabilidade"
   - "ecologia"
