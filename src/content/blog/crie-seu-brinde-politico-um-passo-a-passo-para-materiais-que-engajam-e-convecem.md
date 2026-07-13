@@ -2,7 +2,7 @@
 title: "Crie Seu Brinde Político: Um Passo a Passo para Materiais que Engajam e Convecem"
 description: "Crie Seu Brinde Político: Um Passo a Passo para Materiais que Engajam e Convecem"
 pubDate: "2026-07-13"
-heroImage: "/images/crie-seu-brinde-politico-um-passo-a-passo-para-materiais-que-engajam-e-convecem.jpg"
+heroImage: "/images/posts/crie-seu-brinde-politico-um-passo-a-passo-para-materiais-que-engajam-e-convecem.jpg"
 tags:
   - "politica"
   - "marketing"
