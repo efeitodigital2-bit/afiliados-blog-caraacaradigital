@@ -2,7 +2,7 @@
 title: "Decifrando a Política de Preços: Como ela Molda o Custo dos Seus Produtos Favoritos [Quero Saber]"
 description: "Decifrando a Política de Preços: Como ela Molda o Custo dos Seus Produtos Favoritos [Quero Saber]"
 pubDate: "2026-07-13"
-heroImage: "/images/decifrando-a-politica-de-precos-como-ela-molda-o-custo-dos-seus-produtos-favorit.jpg"
+heroImage: "/images/posts/decifrando-a-politica-de-precos-como-ela-molda-o-custo-dos-seus-produtos-favorit.jpg"
 tags:
   - "política_de_preços"
   - "preços"
