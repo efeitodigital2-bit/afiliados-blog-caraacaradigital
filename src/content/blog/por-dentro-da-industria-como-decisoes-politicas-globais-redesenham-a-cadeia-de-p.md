@@ -2,7 +2,7 @@
 title: "Por Dentro da Indústria: Como Decisões Políticas Globais Redesenham a Cadeia de Produção de Produtos"
 description: "Por Dentro da Indústria: Como Decisões Políticas Globais Redesenham a Cadeia de Produção de Produtos"
 pubDate: "2026-07-13"
-heroImage: "/images/por-dentro-da-industria-como-decisoes-politicas-globais-redesenham-a-cadeia-de-p.jpg"
+heroImage: "/images/posts/por-dentro-da-industria-como-decisoes-politicas-globais-redesenham-a-cadeia-de-p.jpg"
 tags:
   - "globalização"
   - "política"
