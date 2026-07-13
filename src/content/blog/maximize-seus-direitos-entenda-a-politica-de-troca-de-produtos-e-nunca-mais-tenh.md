@@ -2,7 +2,7 @@
 title: "Maximize Seus Direitos: Entenda a Política de Troca de Produtos e Nunca Mais Tenha Prejuízo (CDC Explicado)"
 description: "Maximize Seus Direitos: Entenda a Política de Troca de Produtos e Nunca Mais Tenha Prejuízo (CDC Explicado)"
 pubDate: "2026-07-13"
-heroImage: "/images/maximize-seus-direitos-entenda-a-politica-de-troca-de-produtos-e-nunca-mais-tenh.jpg"
+heroImage: "/images/posts/maximize-seus-direitos-entenda-a-politica-de-troca-de-produtos-e-nunca-mais-tenh.jpg"
 tags:
   - "política-de-troca"
   - "garantia"
