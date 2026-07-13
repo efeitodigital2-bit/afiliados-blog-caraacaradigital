@@ -2,7 +2,7 @@
 title: "Prepare-se para as Eleições: Produtos Essenciais para Organizar Seu Centro de Votação em Casa (Lista Completa)"
 description: "Prepare-se para as Eleições: Produtos Essenciais para Organizar Seu Centro de Votação em Casa (Lista Completa)"
 pubDate: "2026-07-13"
-heroImage: "/images/prepare-se-para-as-eleicoes-produtos-essenciais-para-organizar-seu-centro-de-vot.jpg"
+heroImage: "/images/posts/prepare-se-para-as-eleicoes-produtos-essenciais-para-organizar-seu-centro-de-vot.jpg"
 tags:
   - "eleição"
   - "votacao"
