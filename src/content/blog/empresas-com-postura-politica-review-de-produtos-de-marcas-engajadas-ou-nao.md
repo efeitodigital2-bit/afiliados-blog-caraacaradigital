@@ -2,7 +2,7 @@
 title: "Empresas com postura política: review de produtos de marcas engajadas (ou não)"
 description: "Empresas com postura política: review de produtos de marcas engajadas (ou não)"
 pubDate: "2026-07-13"
-heroImage: "/images/empresas-com-postura-politica-review-de-produtos-de-marcas-engajadas-ou-nao.jpg"
+heroImage: "/images/posts/empresas-com-postura-politica-review-de-produtos-de-marcas-engajadas-ou-nao.jpg"
 tags:
   - "empresas politicamente engajadas"
   - "marketing de afiliados"
