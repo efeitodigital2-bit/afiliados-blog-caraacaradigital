@@ -2,7 +2,7 @@
 title: "Guia do Ativista: Produtos Indispensáveis para Manifestações Pacíficas e Engajamento Cívico"
 description: "Guia do Ativista: Produtos Indispensáveis para Manifestações Pacíficas e Engajamento Cívico"
 pubDate: "2026-07-13"
-heroImage: "/images/guia-do-ativista-produtos-indispensaveis-para-manifestacoes-pacificas-e-engajame.jpg"
+heroImage: "/images/posts/guia-do-ativista-produtos-indispensaveis-para-manifestacoes-pacificas-e-engajame.jpg"
 tags:
   - "ativista"
   - "manifestação"
