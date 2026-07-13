@@ -2,7 +2,7 @@
 title: "O Consumidor Politizado: Entenda o Fenômeno por Trás dos Boicotes e Apoios a Produtos [Quero Saber]"
 description: "O Consumidor Politizado: Entenda o Fenômeno por Trás dos Boicotes e Apoios a Produtos [Quero Saber]"
 pubDate: "2026-07-13"
-heroImage: "/images/o-consumidor-politizado-entenda-o-fenomeno-por-tras-dos-boicotes-e-apoios-a-prod.jpg"
+heroImage: "/images/posts/o-consumidor-politizado-entenda-o-fenomeno-por-tras-dos-boicotes-e-apoios-a-prod.jpg"
 tags:
   - "consumopolitizado"
   - "consumidor"
