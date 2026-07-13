@@ -2,7 +2,7 @@
 title: "Marcas Engajadas: Vale a Pena Comprar de Empresas com Posição Política Clara? [Análise Profunda]"
 description: "Marcas Engajadas: Vale a Pena Comprar de Empresas com Posição Política Clara? [Análise Profunda]"
 pubDate: "2026-07-13"
-heroImage: "/images/marcas-engajadas-vale-a-pena-comprar-de-empresas-com-posicao-politica-clara-anal.jpg"
+heroImage: "/images/posts/marcas-engajadas-vale-a-pena-comprar-de-empresas-com-posicao-politica-clara-anal.jpg"
 tags:
   - "colchão"
 ---
