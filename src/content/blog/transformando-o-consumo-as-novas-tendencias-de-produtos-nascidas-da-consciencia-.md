@@ -2,7 +2,7 @@
 title: "Transformando o Consumo: As Novas Tendências de Produtos Nascidas da Consciência Política Global"
 description: "Transformando o Consumo: As Novas Tendências de Produtos Nascidas da Consciência Política Global"
 pubDate: "2026-07-13"
-heroImage: "/images/transformando-o-consumo-as-novas-tendencias-de-produtos-nascidas-da-consciencia-.jpg"
+heroImage: "/images/posts/transformando-o-consumo-as-novas-tendencias-de-produtos-nascidas-da-consciencia-.jpg"
 tags:
   - "consumo consciente"
   - "sustentabilidade"
