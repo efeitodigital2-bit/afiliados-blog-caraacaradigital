@@ -2,7 +2,7 @@
 title: "Entenda a Geopolítica dos Produtos: Como Conflitos Globais Afetam o Que Chega à Sua Casa"
 description: "Entenda a Geopolítica dos Produtos: Como Conflitos Globais Afetam o Que Chega à Sua Casa"
 pubDate: "2026-07-13"
-heroImage: "/images/entenda-a-geopolitica-dos-produtos-como-conflitos-globais-afetam-o-que-chega-a-s.jpg"
+heroImage: "/images/posts/entenda-a-geopolitica-dos-produtos-como-conflitos-globais-afetam-o-que-chega-a-s.jpg"
 tags:
   - "geopolítica"
   - "produtos"
