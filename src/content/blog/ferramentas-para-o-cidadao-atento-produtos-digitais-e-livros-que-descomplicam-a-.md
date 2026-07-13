@@ -2,7 +2,7 @@
 title: "Ferramentas para o Cidadão Atento: Produtos Digitais e Livros que Descomplicam a Política Atual"
 description: "Ferramentas para o Cidadão Atento: Produtos Digitais e Livros que Descomplicam a Política Atual"
 pubDate: "2026-07-13"
-heroImage: "/images/ferramentas-para-o-cidadao-atento-produtos-digitais-e-livros-que-descomplicam-a-.jpg"
+heroImage: "/images/posts/ferramentas-para-o-cidadao-atento-produtos-digitais-e-livros-que-descomplicam-a-.jpg"
 tags:
   - "cidadania"
   - "politica"
