@@ -2,7 +2,7 @@
 title: "Navegando a Polarização: Estratégias de Marcas para Vender Produtos em um Cenário Político Dividido"
 description: "Navegando a Polarização: Estratégias de Marcas para Vender Produtos em um Cenário Político Dividido"
 pubDate: "2026-07-13"
-heroImage: "/images/navegando-a-polarizacao-estrategias-de-marcas-para-vender-produtos-em-um-cenario.jpg"
+heroImage: "/images/posts/navegando-a-polarizacao-estrategias-de-marcas-para-vender-produtos-em-um-cenario.jpg"
 tags:
   - "marketing"
   - "branding"
