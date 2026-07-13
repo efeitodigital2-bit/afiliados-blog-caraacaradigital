@@ -2,7 +2,7 @@
 title: "Marketing Político para Marcas: Quando Assumir um Lado Impulsiona ou Derruba Vendas [Estudo de Caso]"
 description: "Marketing Político para Marcas: Quando Assumir um Lado Impulsiona ou Derruba Vendas [Estudo de Caso]"
 pubDate: "2026-07-13"
-heroImage: "/images/marketing-politico-para-marcas-quando-assumir-um-lado-impulsiona-ou-derruba-vend.jpg"
+heroImage: "/images/posts/marketing-politico-para-marcas-quando-assumir-um-lado-impulsiona-ou-derruba-vend.jpg"
 tags:
   - "marketing"
   - "política"
