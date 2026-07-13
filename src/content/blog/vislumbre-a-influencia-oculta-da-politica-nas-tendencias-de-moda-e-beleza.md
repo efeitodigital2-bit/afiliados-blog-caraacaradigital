@@ -2,7 +2,7 @@
 title: "Vislumbre: A influência oculta da política nas tendências de moda e beleza"
 description: "Vislumbre: A influência oculta da política nas tendências de moda e beleza"
 pubDate: "2026-07-13"
-heroImage: "/images/vislumbre-a-influencia-oculta-da-politica-nas-tendencias-de-moda-e-beleza.jpg"
+heroImage: "/images/posts/vislumbre-a-influencia-oculta-da-politica-nas-tendencias-de-moda-e-beleza.jpg"
 tags:
   - "moda"
   - "política"
