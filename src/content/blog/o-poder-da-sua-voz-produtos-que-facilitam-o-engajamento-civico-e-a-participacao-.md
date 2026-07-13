@@ -2,7 +2,7 @@
 title: "O Poder da Sua Voz: Produtos que Facilitam o Engajamento Cívico e a Participação Política [Novidades Tech]"
 description: "O Poder da Sua Voz: Produtos que Facilitam o Engajamento Cívico e a Participação Política [Novidades Tech]"
 pubDate: "2026-07-13"
-heroImage: "/images/o-poder-da-sua-voz-produtos-que-facilitam-o-engajamento-civico-e-a-participacao-.jpg"
+heroImage: "/images/posts/o-poder-da-sua-voz-produtos-que-facilitam-o-engajamento-civico-e-a-participacao-.jpg"
 tags:
   - "tecnologia"
   - "participação política"
