@@ -2,7 +2,7 @@
 title: "Compreendendo o Tarifaço: O Que a Política Internacional Significa para o Preço dos Seus Importados [Guia Completo]"
 description: "Compreendendo o Tarifaço: O Que a Política Internacional Significa para o Preço dos Seus Importados [Guia Completo]"
 pubDate: "2026-07-13"
-heroImage: "/images/compreendendo-o-tarifaco-o-que-a-politica-internacional-significa-para-o-preco-d.jpg"
+heroImage: "/images/posts/compreendendo-o-tarifaco-o-que-a-politica-internacional-significa-para-o-preco-d.jpg"
 tags:
   - "tarifaço"
   - "importação"
