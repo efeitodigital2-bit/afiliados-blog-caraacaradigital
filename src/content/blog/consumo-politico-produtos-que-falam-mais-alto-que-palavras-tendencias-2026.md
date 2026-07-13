@@ -2,7 +2,7 @@
 title: "Consumo Político: Produtos que Falam Mais Alto que Palavras [Tendências 2026]"
 description: "Consumo Político: Produtos que Falam Mais Alto que Palavras [Tendências 2026]"
 pubDate: "2026-07-13"
-heroImage: "/images/consumo-politico-produtos-que-falam-mais-alto-que-palavras-tendencias-2026.jpg"
+heroImage: "/images/posts/consumo-politico-produtos-que-falam-mais-alto-que-palavras-tendencias-2026.jpg"
 tags:
   - "consumo político"
   - "tecnologia"
