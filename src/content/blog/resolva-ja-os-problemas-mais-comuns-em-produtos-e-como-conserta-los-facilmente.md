@@ -2,7 +2,7 @@
 title: "Resolva Já: Os Problemas Mais Comuns em Produtos e Como Consertá-los Facilmente"
 description: "Resolva Já: Os Problemas Mais Comuns em Produtos e Como Consertá-los Facilmente"
 pubDate: "2026-07-13"
-heroImage: "/images/resolva-ja-os-problemas-mais-comuns-em-produtos-e-como-conserta-los-facilmente.jpg"
+heroImage: "/images/posts/resolva-ja-os-problemas-mais-comuns-em-produtos-e-como-conserta-los-facilmente.jpg"
 tags:
   - "produtos"
   - "soluções"
