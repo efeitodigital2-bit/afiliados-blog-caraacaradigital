@@ -2,7 +2,7 @@
 title: "Tendências de Consumo: Produtos Influenciados por Mudanças na Política Ambiental [O Futuro do seu Carrinho]"
 description: "Tendências de Consumo: Produtos Influenciados por Mudanças na Política Ambiental [O Futuro do seu Carrinho]"
 pubDate: "2026-07-13"
-heroImage: "/images/tendencias-de-consumo-produtos-influenciados-por-mudancas-na-politica-ambiental-.jpg"
+heroImage: "/images/posts/tendencias-de-consumo-produtos-influenciados-por-mudancas-na-politica-ambiental-.jpg"
 tags:
   - "sustentabilidade"
   - "eco-conciousness"
