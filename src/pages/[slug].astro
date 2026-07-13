@@ -5,6 +5,8 @@ import ComparisonTable from '../components/ComparisonTable.astro';
 import { getCollection } from 'astro:content';
 import fs from 'node:fs';
 import path from 'node:path';
+import siteConfig from '../siteConfig.json';
+
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
