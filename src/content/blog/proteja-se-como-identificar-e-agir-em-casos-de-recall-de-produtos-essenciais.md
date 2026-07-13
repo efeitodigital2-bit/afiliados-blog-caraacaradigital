@@ -2,7 +2,7 @@
 title: "Proteja-se: Como Identificar e Agir em Casos de Recall de Produtos Essenciais"
 description: "Proteja-se: Como Identificar e Agir em Casos de Recall de Produtos Essenciais"
 pubDate: "2026-07-13"
-heroImage: "/images/proteja-se-como-identificar-e-agir-em-casos-de-recall-de-produtos-essenciais.jpg"
+heroImage: "/images/posts/proteja-se-como-identificar-e-agir-em-casos-de-recall-de-produtos-essenciais.jpg"
 tags:
   - "colchão"
 ---
