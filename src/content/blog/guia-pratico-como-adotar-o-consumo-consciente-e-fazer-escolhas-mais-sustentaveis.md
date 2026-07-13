@@ -2,7 +2,7 @@
 title: "Guia Prático: Como Adotar o Consumo Consciente e Fazer Escolhas Mais Sustentáveis"
 description: "Guia Prático: Como Adotar o Consumo Consciente e Fazer Escolhas Mais Sustentáveis"
 pubDate: "2026-07-13"
-heroImage: "/images/guia-pratico-como-adotar-o-consumo-consciente-e-fazer-escolhas-mais-sustentaveis.jpg"
+heroImage: "/images/posts/guia-pratico-como-adotar-o-consumo-consciente-e-fazer-escolhas-mais-sustentaveis.jpg"
 tags:
   - "sustentabilidade"
   - "consumo consciente"
