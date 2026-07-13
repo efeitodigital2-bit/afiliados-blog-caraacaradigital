@@ -2,7 +2,7 @@
 title: "Sua Cesta de Compras é um Ato Político? Descubra o Poder do Consumidor Consciente [Micromomento: Quero Saber]"
 description: "Sua Cesta de Compras é um Ato Político? Descubra o Poder do Consumidor Consciente [Micromomento: Quero Saber]"
 pubDate: "2026-07-13"
-heroImage: "/images/sua-cesta-de-compras-e-um-ato-politico-descubra-o-poder-do-consumidor-consciente.jpg"
+heroImage: "/images/posts/sua-cesta-de-compras-e-um-ato-politico-descubra-o-poder-do-consumidor-consciente.jpg"
 tags:
   - "consumo consciente"
   - "sustentabilidade"
