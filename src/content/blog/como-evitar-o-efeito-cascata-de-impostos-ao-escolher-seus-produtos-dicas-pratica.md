@@ -2,7 +2,7 @@
 title: "Como Evitar o 'Efeito Cascata' de Impostos ao Escolher Seus Produtos [Dicas Práticas]"
 description: "Como Evitar o 'Efeito Cascata' de Impostos ao Escolher Seus Produtos [Dicas Práticas]"
 pubDate: "2026-07-13"
-heroImage: "/images/como-evitar-o-efeito-cascata-de-impostos-ao-escolher-seus-produtos-dicas-pratica.jpg"
+heroImage: "/images/posts/como-evitar-o-efeito-cascata-de-impostos-ao-escolher-seus-produtos-dicas-pratica.jpg"
 tags:
   - "afiliados"
   - "marketing digital"
