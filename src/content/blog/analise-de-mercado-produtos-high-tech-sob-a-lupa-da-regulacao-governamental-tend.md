@@ -2,7 +2,7 @@
 title: "Análise de Mercado: Produtos High-Tech Sob a Lupa da Regulação Governamental [Tendências Futuras]"
 description: "Análise de Mercado: Produtos High-Tech Sob a Lupa da Regulação Governamental [Tendências Futuras]"
 pubDate: "2026-07-13"
-heroImage: "/images/analise-de-mercado-produtos-high-tech-sob-a-lupa-da-regulacao-governamental-tend.jpg"
+heroImage: "/images/posts/analise-de-mercado-produtos-high-tech-sob-a-lupa-da-regulacao-governamental-tend.jpg"
 tags:
   - "tecnologia"
   - "inovação"
