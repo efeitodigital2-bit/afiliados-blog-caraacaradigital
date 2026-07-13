@@ -1,0 +1,109 @@
+{
+  "categories": [
+    {
+      "name": "Política Nacional",
+      "slug": "politica-nacional",
+      "description": "Análises aprofundadas sobre o cenário político brasileiro, decisões governamentais, eleições, partidos e o impacto das políticas públicas na vida dos cidadãos. Mantenha-se informado sobre o poder executivo, legislativo e judiciário.",
+      "subcategories": [
+        {
+          "name": "Cenário Político",
+          "slug": "cenario-politico",
+          "description": "Cobertura e análise das dinâmicas políticas, alianças, crises e tendências que moldam o futuro do Brasil. Entenda os bastidores e as forças em jogo na política nacional para uma visão completa.",
+          "articles": []
+        },
+        {
+          "name": "Poderes da República",
+          "slug": "poderes-da-republica",
+          "description": "Acompanhe as ações e decisões dos três poderes – Executivo, Legislativo e Judiciário – e como eles interagem para governar o país. Informações sobre leis, decretos e julgamentos importantes que afetam a nação.",
+          "articles": []
+        },
+        {
+          "name": "Eleições e Partidos",
+          "slug": "eleicoes-e-partidos",
+          "description": "Tudo sobre o processo eleitoral, candidatos, plataformas, resultados e o papel dos partidos políticos na democracia brasileira. Prepare-se para votar com consciência e informação, entendendo cada proposta.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Cidadania Ativa",
+      "slug": "cidadania-ativa",
+      "description": "Guia completo sobre seus direitos e deveres como cidadão, formas de participação social, movimentos cívicos e iniciativas que promovem a justiça e a inclusão. Empodere-se e faça a diferença na construção de um país melhor.",
+      "subcategories": [
+        {
+          "name": "Direitos e Deveres",
+          "slug": "direitos-e-deveres",
+          "description": "Conheça seus direitos fundamentais e as responsabilidades que vêm com a cidadania. Artigos e guias práticos para entender a legislação e proteger suas garantias, fortalecendo sua atuação na sociedade.",
+          "articles": []
+        },
+        {
+          "name": "Participação Cívica",
+          "slug": "participacao-civica",
+          "description": "Descubra como você pode influenciar as decisões públicas, desde o voto até a atuação em conselhos e audiências. Ferramentas e dicas para uma participação efetiva na vida política e social do país.",
+          "articles": []
+        },
+        {
+          "name": "Iniciativas Sociais",
+          "slug": "iniciativas-sociais",
+          "description": "Explore projetos, campanhas e movimentos que buscam soluções para desafios sociais, promovem a igualdade e fortalecem a comunidade. Inspire-se e engaje-se em causas relevantes para o bem comum.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Atualidades e Contexto",
+      "slug": "atualidades-e-contexto",
+      "description": "As notícias mais relevantes do Brasil e do mundo, com análises aprofundadas e contexto para você entender o que realmente importa. Mantenha-se atualizado com reportagens especiais e dossiês que desvendam os fatos.",
+      "subcategories": [
+        {
+          "name": "Fatos Relevantes",
+          "slug": "fatos-relevantes",
+          "description": "Cobertura diária dos acontecimentos que impactam a sociedade, a política e a economia. Notícias de última hora e os principais destaques do dia para você não perder nada e estar sempre bem informado.",
+          "articles": []
+        },
+        {
+          "name": "Análises Aprofundadas",
+          "slug": "analises-aprofundadas",
+          "description": "Opiniões de especialistas e artigos que desvendam as camadas por trás das notícias, oferecendo diferentes perspectivas e ajudando a formar sua própria visão crítica sobre os temas mais complexos.",
+          "articles": []
+        },
+        {
+          "name": "Dossiês e Especiais",
+          "slug": "dossies-e-especiais",
+          "description": "Investigações detalhadas e reportagens especiais sobre temas complexos, com dados, entrevistas e múltiplos ângulos para uma compreensão completa de grandes questões nacionais e globais.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Governança e Transparência",
+      "slug": "governanca-e-transparencia",
+      "description": "Informações essenciais sobre a administração pública, fiscalização, combate à corrupção e o uso dos recursos públicos. Entenda como o dinheiro do contribuinte é gerido e cobrado, garantindo a integridade.",
+      "subcategories": [
+        {
+          "name": "Administração Pública",
+          "slug": "administracao-publica",
+          "description": "Detalhes sobre a estrutura e o funcionamento dos órgãos governamentais, políticas de gestão e desafios da máquina pública. Saiba como o Estado se organiza para servir o cidadão de forma eficiente.",
+          "articles": []
+        },
+        {
+          "name": "Fiscalização e Controle",
+          "slug": "fiscalizacao-e-controle",
+          "description": "Acompanhe as ações de auditoria, órgãos de controle e mecanismos de accountability que garantem a probidade e a eficiência na gestão pública. Seu direito de fiscalizar e exigir responsabilidade.",
+          "articles": []
+        },
+        {
+          "name": "Investimentos e Contratos",
+          "slug": "investimentos-e-contratos",
+          "description": "Transparência sobre licitações, contratos governamentais, obras públicas e investimentos estatais. Entenda como os recursos são aplicados e a verdade por trás das aquisições públicas, garantindo o uso correto do dinheiro.",
+          "articles": [
+            {
+              "title": "Produtos em Foco: A Verdade Que Você Precisa Saber Antes de Comprar",
+              "slug": "primeiro-post"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
