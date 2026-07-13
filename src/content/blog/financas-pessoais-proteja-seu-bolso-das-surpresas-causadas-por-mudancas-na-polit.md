@@ -2,7 +2,7 @@
 title: "Finanças Pessoais: Proteja Seu Bolso das Surpresas Causadas por Mudanças na Política Econômica"
 description: "Finanças Pessoais: Proteja Seu Bolso das Surpresas Causadas por Mudanças na Política Econômica"
 pubDate: "2026-07-13"
-heroImage: "/images/financas-pessoais-proteja-seu-bolso-das-surpresas-causadas-por-mudancas-na-polit.jpg"
+heroImage: "/images/posts/financas-pessoais-proteja-seu-bolso-das-surpresas-causadas-por-mudancas-na-polit.jpg"
 tags:
   - "finanças pessoais"
   - "economia"
