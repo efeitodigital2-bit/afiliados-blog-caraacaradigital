@@ -2,7 +2,7 @@
 title: "Descubra o Melhor Tablet para Consumir Notícias em 2026 [Guia de Compra Definitivo]"
 description: "Descubra o Melhor Tablet para Consumir Notícias em 2026 [Guia de Compra Definitivo]"
 pubDate: "2026-07-13"
-heroImage: "/images/descubra-o-melhor-tablet-para-consumir-noticias-em-2026-guia-de-compra-definitiv.jpg"
+heroImage: "/images/posts/descubra-o-melhor-tablet-para-consumir-noticias-em-2026-guia-de-compra-definitiv.jpg"
 tags:
   - "colchão"
 ---
