@@ -2,7 +2,7 @@
 title: "Organize Suas Fontes: Como Montar um Sistema Eficiente para Acompanhar Notícias Sem Saturação"
 description: "Organize Suas Fontes: Como Montar um Sistema Eficiente para Acompanhar Notícias Sem Saturação"
 pubDate: "2026-07-13"
-heroImage: "/images/organize-suas-fontes-como-montar-um-sistema-eficiente-para-acompanhar-noticias-s.jpg"
+heroImage: "/images/posts/organize-suas-fontes-como-montar-um-sistema-eficiente-para-acompanhar-noticias-s.jpg"
 tags:
   - "organização"
   - "notícias"
