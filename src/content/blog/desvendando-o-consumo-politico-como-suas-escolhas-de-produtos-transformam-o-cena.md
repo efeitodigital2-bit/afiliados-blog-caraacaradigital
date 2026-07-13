@@ -2,7 +2,7 @@
 title: "Desvendando o Consumo Político: Como Suas Escolhas de Produtos Transformam o Cenário Nacional [Guia Essencial]"
 description: "Desvendando o Consumo Político: Como Suas Escolhas de Produtos Transformam o Cenário Nacional [Guia Essencial]"
 pubDate: "2026-07-13"
-heroImage: "/images/desvendando-o-consumo-politico-como-suas-escolhas-de-produtos-transformam-o-cena.jpg"
+heroImage: "/images/posts/desvendando-o-consumo-politico-como-suas-escolhas-de-produtos-transformam-o-cena.jpg"
 tags:
   - "consumo"
   - "política"
