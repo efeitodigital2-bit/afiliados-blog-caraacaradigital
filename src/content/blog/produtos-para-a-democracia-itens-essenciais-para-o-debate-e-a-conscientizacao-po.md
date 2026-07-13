@@ -2,7 +2,7 @@
 title: "Produtos para a Democracia: Itens Essenciais para o Debate e a Conscientização Política em Casa"
 description: "Produtos para a Democracia: Itens Essenciais para o Debate e a Conscientização Política em Casa"
 pubDate: "2026-07-13"
-heroImage: "/images/produtos-para-a-democracia-itens-essenciais-para-o-debate-e-a-conscientizacao-po.jpg"
+heroImage: "/images/posts/produtos-para-a-democracia-itens-essenciais-para-o-debate-e-a-conscientizacao-po.jpg"
 tags:
   - "democratização"
   - "política"
