@@ -2,7 +2,7 @@
 title: "Cuidado ao Consumir: Os Riscos Ocultos de Produtos Envolvidos em Controvérsias Políticas Recentes"
 description: "Cuidado ao Consumir: Os Riscos Ocultos de Produtos Envolvidos em Controvérsias Políticas Recentes"
 pubDate: "2026-07-13"
-heroImage: "/images/cuidado-ao-consumir-os-riscos-ocultos-de-produtos-envolvidos-em-controversias-po.jpg"
+heroImage: "/images/posts/cuidado-ao-consumir-os-riscos-ocultos-de-produtos-envolvidos-em-controversias-po.jpg"
 tags:
   - "consumo consciente"
   - "transparência"
