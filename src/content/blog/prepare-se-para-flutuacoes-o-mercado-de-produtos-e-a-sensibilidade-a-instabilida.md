@@ -2,7 +2,7 @@
 title: "Prepare-se para Flutuações: O Mercado de Produtos e a Sensibilidade à Instabilidade Política"
 description: "Prepare-se para Flutuações: O Mercado de Produtos e a Sensibilidade à Instabilidade Política"
 pubDate: "2026-07-13"
-heroImage: "/images/prepare-se-para-flutuacoes-o-mercado-de-produtos-e-a-sensibilidade-a-instabilida.jpg"
+heroImage: "/images/posts/prepare-se-para-flutuacoes-o-mercado-de-produtos-e-a-sensibilidade-a-instabilida.jpg"
 tags:
   - "marketing-de-afiliados"
   - "instabilidade-política"
