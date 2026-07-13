@@ -2,7 +2,7 @@
 title: "Testamos produtos 'verdes': são realmente sustentáveis ou puro marketing político?"
 description: "Testamos produtos 'verdes': são realmente sustentáveis ou puro marketing político?"
 pubDate: "2026-07-13"
-heroImage: "/images/testamos-produtos-verdes-sao-realmente-sustentaveis-ou-puro-marketing-politico.jpg"
+heroImage: "/images/posts/testamos-produtos-verdes-sao-realmente-sustentaveis-ou-puro-marketing-politico.jpg"
 tags:
   - "sustentabilidade"
   - "produtos verdes"
