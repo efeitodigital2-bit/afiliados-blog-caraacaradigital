@@ -2,7 +2,7 @@
 title: "Desenvolva uma Estratégia ESG: Produtos e Sustentabilidade na Nova Era da Política Corporativa (Tutorial Prático)"
 description: "Desenvolva uma Estratégia ESG: Produtos e Sustentabilidade na Nova Era da Política Corporativa (Tutorial Prático)"
 pubDate: "2026-07-13"
-heroImage: "/images/desenvolva-uma-estrategia-esg-produtos-e-sustentabilidade-na-nova-era-da-politic.jpg"
+heroImage: "/images/posts/desenvolva-uma-estrategia-esg-produtos-e-sustentabilidade-na-nova-era-da-politic.jpg"
 tags:
   - "ESG"
   - "Sustentabilidade"
