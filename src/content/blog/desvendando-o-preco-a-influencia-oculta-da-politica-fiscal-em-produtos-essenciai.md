@@ -2,7 +2,7 @@
 title: "Desvendando o Preço: A Influência Oculta da Política Fiscal em Produtos Essenciais [Você Paga Mais por Quê?]"
 description: "Desvendando o Preço: A Influência Oculta da Política Fiscal em Produtos Essenciais [Você Paga Mais por Quê?]"
 pubDate: "2026-07-13"
-heroImage: "/images/desvendando-o-preco-a-influencia-oculta-da-politica-fiscal-em-produtos-essenciai.jpg"
+heroImage: "/images/posts/desvendando-o-preco-a-influencia-oculta-da-politica-fiscal-em-produtos-essenciai.jpg"
 tags:
   - "politicafiscal"
   - "impostos"
