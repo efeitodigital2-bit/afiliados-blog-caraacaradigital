@@ -2,7 +2,7 @@
 title: "Perfilando os Agregadores de Conteúdo: Qual Deles Respeita Mais Sua Privacidade de Dados?"
 description: "Perfilando os Agregadores de Conteúdo: Qual Deles Respeita Mais Sua Privacidade de Dados?"
 pubDate: "2026-07-13"
-heroImage: "/images/perfilando-os-agregadores-de-conteudo-qual-deles-respeita-mais-sua-privacidade-d.jpg"
+heroImage: "/images/posts/perfilando-os-agregadores-de-conteudo-qual-deles-respeita-mais-sua-privacidade-d.jpg"
 tags:
   - "agregadores de conteúdo"
   - "privacidade de dados"
