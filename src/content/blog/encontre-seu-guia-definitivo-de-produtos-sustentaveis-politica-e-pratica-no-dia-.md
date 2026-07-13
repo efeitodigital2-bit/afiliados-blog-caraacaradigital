@@ -2,7 +2,7 @@
 title: "Encontre seu guia definitivo de produtos sustentáveis: política e prática no dia a dia"
 description: "Encontre seu guia definitivo de produtos sustentáveis: política e prática no dia a dia"
 pubDate: "2026-07-13"
-heroImage: "/images/encontre-seu-guia-definitivo-de-produtos-sustentaveis-politica-e-pratica-no-dia-.jpg"
+heroImage: "/images/posts/encontre-seu-guia-definitivo-de-produtos-sustentaveis-politica-e-pratica-no-dia-.jpg"
 tags:
   - "sustentabilidade"
   - "produtos sustentáveis"
