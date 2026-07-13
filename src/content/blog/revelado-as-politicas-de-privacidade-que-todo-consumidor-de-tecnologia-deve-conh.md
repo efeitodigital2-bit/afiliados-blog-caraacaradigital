@@ -2,7 +2,7 @@
 title: "Revelado: as políticas de privacidade que todo consumidor de tecnologia deve conhecer"
 description: "Revelado: as políticas de privacidade que todo consumidor de tecnologia deve conhecer"
 pubDate: "2026-07-13"
-heroImage: "/images/revelado-as-politicas-de-privacidade-que-todo-consumidor-de-tecnologia-deve-conh.jpg"
+heroImage: "/images/posts/revelado-as-politicas-de-privacidade-que-todo-consumidor-de-tecnologia-deve-conh.jpg"
 tags:
   - "colchão"
 ---
