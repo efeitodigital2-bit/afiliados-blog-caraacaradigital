@@ -2,7 +2,7 @@
 title: "Eleições 2026: Os Produtos de Campanha Mais Criativos (e Polêmicos) que Vão Dominar as Ruas"
 description: "Eleições 2026: Os Produtos de Campanha Mais Criativos (e Polêmicos) que Vão Dominar as Ruas"
 pubDate: "2026-07-13"
-heroImage: "/images/eleicoes-2026-os-produtos-de-campanha-mais-criativos-e-polemicos-que-vao-dominar.jpg"
+heroImage: "/images/posts/eleicoes-2026-os-produtos-de-campanha-mais-criativos-e-polemicos-que-vao-dominar.jpg"
 tags:
   - "produtos eleitorais"
   - "marketing digital"
