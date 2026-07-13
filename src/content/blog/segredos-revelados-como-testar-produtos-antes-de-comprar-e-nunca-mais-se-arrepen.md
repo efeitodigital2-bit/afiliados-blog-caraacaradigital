@@ -2,7 +2,7 @@
 title: "Segredos Revelados: Como Testar Produtos Antes de Comprar e Nunca Mais Se Arrepender"
 description: "Segredos Revelados: Como Testar Produtos Antes de Comprar e Nunca Mais Se Arrepender"
 pubDate: "2026-07-13"
-heroImage: "/images/segredos-revelados-como-testar-produtos-antes-de-comprar-e-nunca-mais-se-arrepen.jpg"
+heroImage: "/images/posts/segredos-revelados-como-testar-produtos-antes-de-comprar-e-nunca-mais-se-arrepen.jpg"
 tags:
   - "colchão"
 ---
