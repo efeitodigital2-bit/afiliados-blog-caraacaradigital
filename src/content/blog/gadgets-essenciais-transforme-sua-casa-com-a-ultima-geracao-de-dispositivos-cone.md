@@ -2,7 +2,7 @@
 title: "Gadgets Essenciais: Transforme Sua Casa com a Última Geração de Dispositivos Conectados"
 description: "Gadgets Essenciais: Transforme Sua Casa com a Última Geração de Dispositivos Conectados"
 pubDate: "2026-07-13"
-heroImage: "/images/gadgets-essenciais-transforme-sua-casa-com-a-ultima-geracao-de-dispositivos-cone.jpg"
+heroImage: "/images/posts/gadgets-essenciais-transforme-sua-casa-com-a-ultima-geracao-de-dispositivos-cone.jpg"
 tags:
   - "smart home"
   - "dispositivos inteligentes"
