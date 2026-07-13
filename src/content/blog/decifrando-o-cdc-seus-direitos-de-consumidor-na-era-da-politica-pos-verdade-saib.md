@@ -2,7 +2,7 @@
 title: "Decifrando o CDC: Seus Direitos de Consumidor na Era da Política Pós-Verdade [Saiba Agir!]"
 description: "Decifrando o CDC: Seus Direitos de Consumidor na Era da Política Pós-Verdade [Saiba Agir!]"
 pubDate: "2026-07-13"
-heroImage: "/images/decifrando-o-cdc-seus-direitos-de-consumidor-na-era-da-politica-pos-verdade-saib.jpg"
+heroImage: "/images/posts/decifrando-o-cdc-seus-direitos-de-consumidor-na-era-da-politica-pos-verdade-saib.jpg"
 tags:
   - "direitos_consumidor"
   - "cdc"
