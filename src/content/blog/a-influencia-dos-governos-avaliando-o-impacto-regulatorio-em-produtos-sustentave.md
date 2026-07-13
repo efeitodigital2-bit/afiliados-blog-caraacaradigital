@@ -2,7 +2,7 @@
 title: "A Influência dos Governos: Avaliando o Impacto Regulatório em Produtos Sustentáveis [Análise Crítica]"
 description: "A Influência dos Governos: Avaliando o Impacto Regulatório em Produtos Sustentáveis [Análise Crítica]"
 pubDate: "2026-07-13"
-heroImage: "/images/a-influencia-dos-governos-avaliando-o-impacto-regulatorio-em-produtos-sustentave.jpg"
+heroImage: "/images/posts/a-influencia-dos-governos-avaliando-o-impacto-regulatorio-em-produtos-sustentave.jpg"
 tags:
   - "sustentabilidade"
   - "ecologia"
