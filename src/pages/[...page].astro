@@ -47,7 +47,7 @@ const gridPosts = isFirstPage ? page.data.slice(1) : page.data;
               </h2>
               <p class="hero-desc">{heroPost.data.description}</p>
               <div class="hero-meta">
-                <span class="meta-author">Por {heroPost.data.author || 'Equipe Melhores Colchões'}</span>
+                <span class="meta-author">Por {heroPost.data.author || 'Redação ' + siteConfig.title}</span>
                 <span class="meta-separator">&bull;</span>
                 <span class="meta-date">
                   {new Date(heroPost.data.pubDate).toLocaleDateString('pt-BR', {

@@ -7,8 +7,9 @@ import siteConfig from '../siteConfig.json';
     <div class="footer-brand">
       <div class="footer-logo">
         <div class="logo-icon">
-          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z" fill="var(--primary-color)" stroke="var(--primary-color)" stroke-width="2" stroke-linejoin="round"/>
+          <svg viewBox="0 0 24 24" fill="none" stroke="var(--primary-color)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+            <path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/>
+            <path d="M18 14h-8M15 18h-5M10 6h8v4h-8V6Z"/>
           </svg>
         </div>
         <div class="logo-text">
@@ -29,11 +30,12 @@ import siteConfig from '../siteConfig.json';
         <span class="info-title">Atualizado:</span>
         <p class="info-content">{siteConfig.updated}</p>
       </div>
-      
-      <div class="info-group">
-        <span class="info-title">Aviso de Afiliado:</span>
-        <p class="info-content">{siteConfig.affiliateNotice}</p>
-      </div>
+      {siteConfig.affiliateNotice && (
+        <div class="info-group">
+          <span class="info-title">Aviso de Afiliado:</span>
+          <p class="info-content">{siteConfig.affiliateNotice}</p>
+        </div>
+      )}
     </div>
   </div>
   

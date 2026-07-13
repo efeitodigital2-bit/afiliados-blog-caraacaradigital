@@ -2,9 +2,9 @@ backend:
   name: github
   repo: efeitodigital2-bit/afiliados-blog-caraacaradigital
   branch: main
-  site_domain: afiliados-blog-caraacaradigital.vercel.app
+  site_domain: caraacaradigital.com
   # Usamos a API própria e segura que criamos para o seu domínio na Vercel
-  base_url: https://inteligenciajovem.com.br
+  base_url: https://caraacaradigital.com
   auth_endpoint: api/auth
 
 # Permite rodar o CMS localmente com 'npx decap-cms-proxy-server'
@@ -28,7 +28,6 @@ collections:
       - { label: "Descrição (SEO)", name: "description", widget: "text" }
       - { label: "Data de Publicação", name: "pubDate", widget: "datetime", type: "date", format: "YYYY-MM-DD", default: "" }
       - { label: "Imagem de Destaque", name: "heroImage", widget: "image", required: false }
-      - { label: "Link de Afiliado Customizado", name: "affiliateLink", widget: "string", required: false }
-      - { label: "Categoria", name: "category", widget: "select", options: ["colchoes", "dicas", "camas"], default: "colchoes", required: false }
-      - { label: "Autor", name: "author", widget: "string", default: "Equipe Melhores Colchões" }
+      - { label: "Categoria", name: "category", widget: "select", options: ["politica", "economia", "cidadania", "cotidiano", "opiniao"], default: "politica", required: false }
+      - { label: "Autor", name: "author", widget: "string", default: "Redação Cara a Cara Digital" }
       - { label: "Corpo do Artigo", name: "body", widget: "markdown" }

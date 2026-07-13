@@ -77,7 +77,7 @@ try {
 }
 ---
 
-<Layout title={`${post.data.title} | Melhores Colchões`} description={post.data.description} preloadImage={post.data.heroImage}>
+<Layout title={`${post.data.title} | ${siteConfig.title}`} description={post.data.description} preloadImage={post.data.heroImage}>
   <article class="blog-post">
     <!-- Breadcrumbs SILO -->
     {categoryInfo && subcategoryInfo && (
@@ -102,7 +102,7 @@ try {
     
     <!-- Meta Dados -->
     <div class="post-meta-row">
-      <span class="meta-item author-name">Por {post.data.author || 'Equipe Melhores Colchões'}</span>
+      <span class="meta-item author-name">Por {post.data.author || 'Redação ' + siteConfig.title}</span>
       <span class="meta-divider">&bull;</span>
       <span class="meta-item publish-date">
         Publicado em {new Date(post.data.pubDate).toLocaleDateString('pt-BR', {
@@ -152,69 +152,7 @@ try {
       <Content />
     </div>
 
-    <!-- Rodapé de CTA se NÃO tiver produtos listados (como artigos informativos e guias) -->
-    {!hasProducts && post.data.affiliateLink && (
-      <div class="conclusion-cta-standalone">
-        <p class="cta-standalone-text">Quer garantir o seu colchão pelo melhor preço? Clique no botão abaixo e confira as melhores ofertas recomendadas:</p>
-        <div class="conclusion-cta">
-          <a href={mlAffiliateLink} target="_blank" rel="noopener noreferrer nofollow" class="conclusion-btn">
-            Ver Preço Aqui
-          </a>
-        </div>
-      </div>
-    )}
-
-    <!-- Recomendações de Produtos Horizontais no meio do conteúdo (Injetado via script) -->
-    <div id="horizontal-recommendations-template" style="display: none;" data-has-affiliate={post.data.affiliateLink ? "true" : "false"}>
-      <section class="horizontal-recommendations-section">
-        <h3 class="recommendations-title">💡 Recomendados em Destaque</h3>
-        <div class="horizontal-products-grid">
-          {recommendedProducts.map(prod => (
-            <div class="horizontal-prod-card">
-              <div class="horizontal-prod-img">
-                <img src={prod.image} alt={prod.title} loading="lazy" width="100" height="100" decoding="async" />
-              </div>
-              <div class="horizontal-prod-info">
-                <h4 class="horizontal-prod-title" title={prod.title}>{prod.title}</h4>
-                <div class="horizontal-prod-rating">
-                  <span class="stars">{"★".repeat(Math.floor(prod.rating)) + (prod.rating % 1 >= 0.5 ? "½" : "")}</span>
-                  <span class="rating-val">{prod.rating} ({prod.reviews})</span>
-                </div>
-                <p class="horizontal-prod-price">{prod.priceRange}</p>
-                <a href={prod.link} target="_blank" rel="noopener noreferrer nofollow" class="horizontal-buy-button">
-                  Ver preço aqui
-                </a>
-              </div>
-            </div>
-          ))}
-        </div>
-      </section>
-    </div>
-
-    <script is:inline>
-      document.addEventListener('DOMContentLoaded', () => {
-        const content = document.getElementById('blog-content');
-        const template = document.getElementById('horizontal-recommendations-template');
-        if (content && template && template.getAttribute('data-has-affiliate') === 'true') {
-          const paragraphs = content.querySelectorAll('p');
-          if (paragraphs.length >= 3) {
-            const middleIndex = Math.floor(paragraphs.length / 2);
-            const middleParagraph = paragraphs[middleIndex];
-            
-            const clone = template.cloneNode(true);
-            clone.style.display = 'block';
-            clone.removeAttribute('id');
-            
-            middleParagraph.parentNode.insertBefore(clone, middleParagraph.nextSibling);
-          } else {
-            const clone = template.cloneNode(true);
-            clone.style.display = 'block';
-            clone.removeAttribute('id');
-            content.appendChild(clone);
-          }
-        }
-      });
-    </script>
+    <!-- Artigo finalizado -->
 
     <!-- Seção de Produtos Analisados (se houver) -->
     {hasProducts && (
