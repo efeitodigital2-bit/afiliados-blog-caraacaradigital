@@ -2,7 +2,7 @@
 title: "Além do Preço: Escolhendo Produtos que Refletem Seus Valores Políticos e Sociais [Conheça as Marcas]"
 description: "Além do Preço: Escolhendo Produtos que Refletem Seus Valores Políticos e Sociais [Conheça as Marcas]"
 pubDate: "2026-07-13"
-heroImage: "/images/alem-do-preco-escolhendo-produtos-que-refletem-seus-valores-politicos-e-sociais-.jpg"
+heroImage: "/images/posts/alem-do-preco-escolhendo-produtos-que-refletem-seus-valores-politicos-e-sociais-.jpg"
 tags:
   - "consumo consciente"
   - "sustentabilidade"
