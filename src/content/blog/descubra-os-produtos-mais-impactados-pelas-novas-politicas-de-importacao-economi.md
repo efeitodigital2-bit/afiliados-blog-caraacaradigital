@@ -2,7 +2,7 @@
 title: "Descubra os produtos mais impactados pelas novas políticas de importação [Economize Agora]"
 description: "Descubra os produtos mais impactados pelas novas políticas de importação [Economize Agora]"
 pubDate: "2026-07-13"
-heroImage: "/images/descubra-os-produtos-mais-impactados-pelas-novas-politicas-de-importacao-economi.jpg"
+heroImage: "/images/posts/descubra-os-produtos-mais-impactados-pelas-novas-politicas-de-importacao-economi.jpg"
 tags:
   - "importacao"
   - "regulamentaçao"
