@@ -2,7 +2,7 @@
 title: "Confronto de Gigantes: Encontre o Produto Ideal para Suas Necessidades [Comparativo 2026]"
 description: "Confronto de Gigantes: Encontre o Produto Ideal para Suas Necessidades [Comparativo 2026]"
 pubDate: "2026-07-13"
-heroImage: "/images/confronto-de-gigantes-encontre-o-produto-ideal-para-suas-necessidades-comparativ.jpg"
+heroImage: "/images/posts/confronto-de-gigantes-encontre-o-produto-ideal-para-suas-necessidades-comparativ.jpg"
 tags:
   - "produto1"
   - "produto2"
