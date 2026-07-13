@@ -2,7 +2,7 @@
 title: "Transforme Seu Hábito de Leitura: Dicas Práticas com E-readers e Aplicativos Focados em Notícias"
 description: "Transforme Seu Hábito de Leitura: Dicas Práticas com E-readers e Aplicativos Focados em Notícias"
 pubDate: "2026-07-13"
-heroImage: "/images/transforme-seu-habito-de-leitura-dicas-praticas-com-e-readers-e-aplicativos-foca.jpg"
+heroImage: "/images/posts/transforme-seu-habito-de-leitura-dicas-praticas-com-e-readers-e-aplicativos-foca.jpg"
 tags:
   - "ebook"
   - "leitura digital"
