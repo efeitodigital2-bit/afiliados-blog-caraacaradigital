@@ -2,7 +2,7 @@
 title: "Consumo Transparente: A Revolução dos Produtos com Rastreabilidade Política e Social [Tendência 2026]"
 description: "Consumo Transparente: A Revolução dos Produtos com Rastreabilidade Política e Social [Tendência 2026]"
 pubDate: "2026-07-13"
-heroImage: "/images/consumo-transparente-a-revolucao-dos-produtos-com-rastreabilidade-politica-e-soc.jpg"
+heroImage: "/images/posts/consumo-transparente-a-revolucao-dos-produtos-com-rastreabilidade-politica-e-soc.jpg"
 tags:
   - "transparência"
   - "consumo"
