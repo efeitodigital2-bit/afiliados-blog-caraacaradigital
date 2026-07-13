@@ -2,7 +2,7 @@
 title: "Decisão Inteligente: O Poder das Resenhas na Sua Jornada de Compra Online"
 description: "Decisão Inteligente: O Poder das Resenhas na Sua Jornada de Compra Online"
 pubDate: "2026-07-13"
-heroImage: "/images/decisao-inteligente-o-poder-das-resenhas-na-sua-jornada-de-compra-online.jpg"
+heroImage: "/images/posts/decisao-inteligente-o-poder-das-resenhas-na-sua-jornada-de-compra-online.jpg"
 tags:
   - "resenhas"
   - "comprar online"
