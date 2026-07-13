@@ -2,7 +2,7 @@
 title: "Review Detalhado: Os Melhores Aplicativos de Notícias Gratuitos e Pagos para Android e iOS"
 description: "Review Detalhado: Os Melhores Aplicativos de Notícias Gratuitos e Pagos para Android e iOS"
 pubDate: "2026-07-13"
-heroImage: "/images/review-detalhado-os-melhores-aplicativos-de-noticias-gratuitos-e-pagos-para-andr.jpg"
+heroImage: "/images/posts/review-detalhado-os-melhores-aplicativos-de-noticias-gratuitos-e-pagos-para-andr.jpg"
 tags:
   - "colchão"
 ---
