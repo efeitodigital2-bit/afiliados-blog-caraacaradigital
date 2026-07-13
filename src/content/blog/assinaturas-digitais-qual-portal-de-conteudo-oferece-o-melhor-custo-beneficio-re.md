@@ -2,7 +2,7 @@
 title: "Assinaturas Digitais: Qual Portal de Conteúdo Oferece o Melhor Custo-Benefício Real?"
 description: "Assinaturas Digitais: Qual Portal de Conteúdo Oferece o Melhor Custo-Benefício Real?"
 pubDate: "2026-07-13"
-heroImage: "/images/assinaturas-digitais-qual-portal-de-conteudo-oferece-o-melhor-custo-beneficio-re.jpg"
+heroImage: "/images/posts/assinaturas-digitais-qual-portal-de-conteudo-oferece-o-melhor-custo-beneficio-re.jpg"
 tags:
   - "assinaturas digitais"
   - "conteúdo online"
