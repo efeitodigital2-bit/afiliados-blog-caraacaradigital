@@ -2,7 +2,7 @@
 title: "Otimize Sua Marca: Desenvolvendo Produtos com uma Forte Política de Responsabilidade Social [Guia para Empresas]"
 description: "Otimize Sua Marca: Desenvolvendo Produtos com uma Forte Política de Responsabilidade Social [Guia para Empresas]"
 pubDate: "2026-07-13"
-heroImage: "/images/otimize-sua-marca-desenvolvendo-produtos-com-uma-forte-politica-de-responsabilid.jpg"
+heroImage: "/images/posts/otimize-sua-marca-desenvolvendo-produtos-com-uma-forte-politica-de-responsabilid.jpg"
 tags:
   - "sustentabilidade"
   - "ética"
