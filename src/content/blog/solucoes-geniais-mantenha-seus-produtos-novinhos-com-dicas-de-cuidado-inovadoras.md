@@ -2,7 +2,7 @@
 title: "Soluções Geniais: Mantenha Seus Produtos Novinhos Com Dicas de Cuidado Inovadoras"
 description: "Soluções Geniais: Mantenha Seus Produtos Novinhos Com Dicas de Cuidado Inovadoras"
 pubDate: "2026-07-13"
-heroImage: "/images/solucoes-geniais-mantenha-seus-produtos-novinhos-com-dicas-de-cuidado-inovadoras.jpg"
+heroImage: "/images/posts/solucoes-geniais-mantenha-seus-produtos-novinhos-com-dicas-de-cuidado-inovadoras.jpg"
 tags:
   - "manutenção"
   - "cuidados"
