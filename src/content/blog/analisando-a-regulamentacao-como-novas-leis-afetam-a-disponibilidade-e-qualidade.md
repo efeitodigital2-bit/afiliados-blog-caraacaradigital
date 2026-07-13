@@ -2,7 +2,7 @@
 title: "Analisando a Regulamentação: Como Novas Leis Afetam a Disponibilidade e Qualidade dos Produtos no Mercado Brasileiro"
 description: "Analisando a Regulamentação: Como Novas Leis Afetam a Disponibilidade e Qualidade dos Produtos no Mercado Brasileiro"
 pubDate: "2026-07-13"
-heroImage: "/images/analisando-a-regulamentacao-como-novas-leis-afetam-a-disponibilidade-e-qualidade.jpg"
+heroImage: "/images/posts/analisando-a-regulamentacao-como-novas-leis-afetam-a-disponibilidade-e-qualidade.jpg"
 tags:
   - "colchão"
 ---
