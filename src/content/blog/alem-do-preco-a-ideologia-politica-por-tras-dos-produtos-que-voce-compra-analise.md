@@ -2,7 +2,7 @@
 title: "Além do Preço: A Ideologia Política por Trás dos Produtos que Você Compra [Análise Profunda]"
 description: "Além do Preço: A Ideologia Política por Trás dos Produtos que Você Compra [Análise Profunda]"
 pubDate: "2026-07-13"
-heroImage: "/images/alem-do-preco-a-ideologia-politica-por-tras-dos-produtos-que-voce-compra-analise.jpg"
+heroImage: "/images/posts/alem-do-preco-a-ideologia-politica-por-tras-dos-produtos-que-voce-compra-analise.jpg"
 tags:
   - "consumo"
   - "ideologia"
