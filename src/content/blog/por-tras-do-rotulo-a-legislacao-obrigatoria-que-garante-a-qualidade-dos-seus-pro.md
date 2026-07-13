@@ -2,7 +2,7 @@
 title: "Por Trás do Rótulo: A Legislação Obrigatória Que Garante a Qualidade dos Seus Produtos [Cuidado Essencial]"
 description: "Por Trás do Rótulo: A Legislação Obrigatória Que Garante a Qualidade dos Seus Produtos [Cuidado Essencial]"
 pubDate: "2026-07-13"
-heroImage: "/images/por-tras-do-rotulo-a-legislacao-obrigatoria-que-garante-a-qualidade-dos-seus-pro.jpg"
+heroImage: "/images/posts/por-tras-do-rotulo-a-legislacao-obrigatoria-que-garante-a-qualidade-dos-seus-pro.jpg"
 tags:
   - "regulamentação"
   - "marketing de afiliados"
