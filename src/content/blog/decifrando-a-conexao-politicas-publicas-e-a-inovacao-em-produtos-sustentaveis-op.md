@@ -2,7 +2,7 @@
 title: "Decifrando a Conexão: Políticas Públicas e a Inovação em Produtos Sustentáveis [Oportunidades e Desafios]"
 description: "Decifrando a Conexão: Políticas Públicas e a Inovação em Produtos Sustentáveis [Oportunidades e Desafios]"
 pubDate: "2026-07-13"
-heroImage: "/images/decifrando-a-conexao-politicas-publicas-e-a-inovacao-em-produtos-sustentaveis-op.jpg"
+heroImage: "/images/posts/decifrando-a-conexao-politicas-publicas-e-a-inovacao-em-produtos-sustentaveis-op.jpg"
 tags:
   - "colchão"
 ---
