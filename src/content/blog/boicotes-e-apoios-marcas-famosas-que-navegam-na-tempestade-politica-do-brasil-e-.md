@@ -2,7 +2,7 @@
 title: "Boicotes e Apoios: Marcas Famosas que Navegam na Tempestade Política do Brasil (E o que Aprendemos com Elas)"
 description: "Boicotes e Apoios: Marcas Famosas que Navegam na Tempestade Política do Brasil (E o que Aprendemos com Elas)"
 pubDate: "2026-07-13"
-heroImage: "/images/boicotes-e-apoios-marcas-famosas-que-navegam-na-tempestade-politica-do-brasil-e-.jpg"
+heroImage: "/images/posts/boicotes-e-apoios-marcas-famosas-que-navegam-na-tempestade-politica-do-brasil-e-.jpg"
 tags:
   - "marketing de afiliados"
   - "marketing digital"
