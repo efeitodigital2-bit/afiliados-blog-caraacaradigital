@@ -2,7 +2,7 @@
 title: "Curiosidades Fascinantes: O Que Você Não Sabia Sobre Seus Produtos Favoritos (Edição 2026)"
 description: "Curiosidades Fascinantes: O Que Você Não Sabia Sobre Seus Produtos Favoritos (Edição 2026)"
 pubDate: "2026-07-13"
-heroImage: "/images/posts/curiosidades-fascinantes-o-que-voce-nao-sabia-sobre-seus-produtos-favoritos-edic.jpg"
+heroImage: "/images/curiosidades-fascinantes-o-que-voce-nao-sabia-sobre-seus-produtos-favoritos-edic.jpg"
 tags:
   - "produtos"
   - "tecnologia"

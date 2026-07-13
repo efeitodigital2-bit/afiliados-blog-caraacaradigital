@@ -2,7 +2,7 @@
 title: "Decodificando as Tendências: Quais Produtos Dominarão o Mercado em 2026? (Análise Completa)"
 description: "Decodificando as Tendências: Quais Produtos Dominarão o Mercado em 2026? (Análise Completa)"
 pubDate: "2026-07-13"
-heroImage: "/images/posts/decodificando-as-tendencias-quais-produtos-dominarao-o-mercado-em-2026-analise-c.jpg"
+heroImage: "/images/decodificando-as-tendencias-quais-produtos-dominarao-o-mercado-em-2026-analise-c.jpg"
 tags:
   - "tecnologia"
   - "futuro"

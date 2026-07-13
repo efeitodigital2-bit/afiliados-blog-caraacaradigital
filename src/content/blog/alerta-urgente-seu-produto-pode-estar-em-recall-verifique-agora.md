@@ -2,7 +2,7 @@
 title: "Alerta Urgente: Seu Produto Pode Estar em Recall! [Verifique Agora]"
 description: "Alerta Urgente: Seu Produto Pode Estar em Recall! [Verifique Agora]"
 pubDate: "2026-07-13"
-heroImage: "/images/posts/alerta-urgente-seu-produto-pode-estar-em-recall-verifique-agora.jpg"
+heroImage: "/images/alerta-urgente-seu-produto-pode-estar-em-recall-verifique-agora.jpg"
 tags:
   - "colchão"
 ---

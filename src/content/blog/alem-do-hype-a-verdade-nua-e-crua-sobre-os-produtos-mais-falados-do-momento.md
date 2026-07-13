@@ -2,7 +2,7 @@
 title: "Além do Hype: A Verdade Nua e Crua Sobre os Produtos Mais Falados do Momento"
 description: "Além do Hype: A Verdade Nua e Crua Sobre os Produtos Mais Falados do Momento"
 pubDate: "2026-07-13"
-heroImage: "/images/posts/alem-do-hype-a-verdade-nua-e-crua-sobre-os-produtos-mais-falados-do-momento.jpg"
+heroImage: "/images/alem-do-hype-a-verdade-nua-e-crua-sobre-os-produtos-mais-falados-do-momento.jpg"
 tags:
   - "colchão"
 ---

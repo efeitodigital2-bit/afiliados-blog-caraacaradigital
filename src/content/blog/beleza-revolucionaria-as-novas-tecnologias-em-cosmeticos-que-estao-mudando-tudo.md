@@ -2,7 +2,7 @@
 title: "Beleza Revolucionária: As Novas Tecnologias em Cosméticos Que Estão Mudando Tudo"
 description: "Beleza Revolucionária: As Novas Tecnologias em Cosméticos Que Estão Mudando Tudo"
 pubDate: "2026-07-13"
-heroImage: "/images/posts/beleza-revolucionaria-as-novas-tecnologias-em-cosmeticos-que-estao-mudando-tudo.jpg"
+heroImage: "/images/beleza-revolucionaria-as-novas-tecnologias-em-cosmeticos-que-estao-mudando-tudo.jpg"
 tags:
   - "tecnologia"
   - "inovação"
