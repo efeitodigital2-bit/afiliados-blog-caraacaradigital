@@ -2,7 +2,7 @@
 title: "Escolhas Que Transformam: O Poder do Consumo Consciente na Arena Política [Quero Agir]"
 description: "Escolhas Que Transformam: O Poder do Consumo Consciente na Arena Política [Quero Agir]"
 pubDate: "2026-07-13"
-heroImage: "/images/escolhas-que-transformam-o-poder-do-consumo-consciente-na-arena-politica-quero-a.jpg"
+heroImage: "/images/posts/escolhas-que-transformam-o-poder-do-consumo-consciente-na-arena-politica-quero-a.jpg"
 tags:
   - "colchão"
 ---
