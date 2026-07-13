@@ -2,7 +2,7 @@
 title: "Guia de Sobrevivência do Consumidor: Como Proteger Suas Escolhas em um Mercado Politicamente Volátil"
 description: "Guia de Sobrevivência do Consumidor: Como Proteger Suas Escolhas em um Mercado Politicamente Volátil"
 pubDate: "2026-07-13"
-heroImage: "/images/guia-de-sobrevivencia-do-consumidor-como-proteger-suas-escolhas-em-um-mercado-po.jpg"
+heroImage: "/images/posts/guia-de-sobrevivencia-do-consumidor-como-proteger-suas-escolhas-em-um-mercado-po.jpg"
 tags:
   - "sobrevivência"
   - "consumo consciente"
