@@ -2,7 +2,7 @@
 title: "Desvendando a Política de Devolução: Seus Direitos Reais ao Comprar Produtos Online e Físicos (Lei Atualizada)"
 description: "Desvendando a Política de Devolução: Seus Direitos Reais ao Comprar Produtos Online e Físicos (Lei Atualizada)"
 pubDate: "2026-07-13"
-heroImage: "/images/desvendando-a-politica-de-devolucao-seus-direitos-reais-ao-comprar-produtos-onli.jpg"
+heroImage: "/images/posts/desvendando-a-politica-de-devolucao-seus-direitos-reais-ao-comprar-produtos-onli.jpg"
 tags:
   - "devolucao"
   - "direito do consumidor"
