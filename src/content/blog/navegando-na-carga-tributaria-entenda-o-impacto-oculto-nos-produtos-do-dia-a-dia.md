@@ -2,7 +2,7 @@
 title: "Navegando na Carga Tributária: Entenda o Impacto Oculto nos Produtos do Dia a Dia"
 description: "Navegando na Carga Tributária: Entenda o Impacto Oculto nos Produtos do Dia a Dia"
 pubDate: "2026-07-13"
-heroImage: "/images/navegando-na-carga-tributaria-entenda-o-impacto-oculto-nos-produtos-do-dia-a-dia.jpg"
+heroImage: "/images/posts/navegando-na-carga-tributaria-entenda-o-impacto-oculto-nos-produtos-do-dia-a-dia.jpg"
 tags:
   - "colchão"
 ---
