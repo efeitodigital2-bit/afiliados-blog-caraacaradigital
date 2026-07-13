@@ -2,7 +2,7 @@
 title: "Aprenda a Usar Ferramentas de Verificação de Fatos para Notícias Online (Tornando-se um Detetive Digital)"
 description: "Aprenda a Usar Ferramentas de Verificação de Fatos para Notícias Online (Tornando-se um Detetive Digital)"
 pubDate: "2026-07-13"
-heroImage: "/images/aprenda-a-usar-ferramentas-de-verificacao-de-fatos-para-noticias-online-tornando.jpg"
+heroImage: "/images/posts/aprenda-a-usar-ferramentas-de-verificacao-de-fatos-para-noticias-online-tornando.jpg"
 tags:
   - "verificacao-de-fatos"
   - "notícias"
