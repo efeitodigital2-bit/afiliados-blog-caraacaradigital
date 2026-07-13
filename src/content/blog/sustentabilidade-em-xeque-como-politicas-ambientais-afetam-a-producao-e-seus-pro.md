@@ -2,7 +2,7 @@
 title: "Sustentabilidade em Xeque: Como Políticas Ambientais Afetam a Produção e Seus Produtos Verdes"
 description: "Sustentabilidade em Xeque: Como Políticas Ambientais Afetam a Produção e Seus Produtos Verdes"
 pubDate: "2026-07-13"
-heroImage: "/images/sustentabilidade-em-xeque-como-politicas-ambientais-afetam-a-producao-e-seus-pro.jpg"
+heroImage: "/images/posts/sustentabilidade-em-xeque-como-politicas-ambientais-afetam-a-producao-e-seus-pro.jpg"
 tags:
   - "sustentabilidade"
   - "produtos verdes"
