@@ -2,7 +2,7 @@
 title: "Boicote ou Apoio? Como o Posicionamento Político de Uma Marca Impacta Suas Vendas [Estudo de Caso]"
 description: "Boicote ou Apoio? Como o Posicionamento Político de Uma Marca Impacta Suas Vendas [Estudo de Caso]"
 pubDate: "2026-07-13"
-heroImage: "/images/boicote-ou-apoio-como-o-posicionamento-politico-de-uma-marca-impacta-suas-vendas.jpg"
+heroImage: "/images/posts/boicote-ou-apoio-como-o-posicionamento-politico-de-uma-marca-impacta-suas-vendas.jpg"
 tags:
   - "marketing"
   - "branding"
