@@ -2,7 +2,7 @@
 title: "Seu Dinheiro Importa: O Poder das Suas Escolhas de Produtos em Tempos de Polarização Política"
 description: "Seu Dinheiro Importa: O Poder das Suas Escolhas de Produtos em Tempos de Polarização Política"
 pubDate: "2026-07-13"
-heroImage: "/images/seu-dinheiro-importa-o-poder-das-suas-escolhas-de-produtos-em-tempos-de-polariza.jpg"
+heroImage: "/images/posts/seu-dinheiro-importa-o-poder-das-suas-escolhas-de-produtos-em-tempos-de-polariza.jpg"
 tags:
   - "afiliado"
   - "marketing"
