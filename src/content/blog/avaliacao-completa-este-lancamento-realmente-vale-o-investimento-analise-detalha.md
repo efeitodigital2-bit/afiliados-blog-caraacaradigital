@@ -2,7 +2,7 @@
 title: "Avaliação Completa: Este Lançamento Realmente Vale o Investimento? [Análise Detalhada]"
 description: "Avaliação Completa: Este Lançamento Realmente Vale o Investimento? [Análise Detalhada]"
 pubDate: "2026-07-13"
-heroImage: "/images/avaliacao-completa-este-lancamento-realmente-vale-o-investimento-analise-detalha.jpg"
+heroImage: "/images/posts/avaliacao-completa-este-lancamento-realmente-vale-o-investimento-analise-detalha.jpg"
 tags:
   - "qualidade de vida"
   - "sono"
