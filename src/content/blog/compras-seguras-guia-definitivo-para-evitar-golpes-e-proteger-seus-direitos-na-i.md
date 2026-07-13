@@ -2,7 +2,7 @@
 title: "Compras Seguras: Guia Definitivo para Evitar Golpes e Proteger Seus Direitos na Internet"
 description: "Compras Seguras: Guia Definitivo para Evitar Golpes e Proteger Seus Direitos na Internet"
 pubDate: "2026-07-13"
-heroImage: "/images/compras-seguras-guia-definitivo-para-evitar-golpes-e-proteger-seus-direitos-na-i.jpg"
+heroImage: "/images/posts/compras-seguras-guia-definitivo-para-evitar-golpes-e-proteger-seus-direitos-na-i.jpg"
 tags:
   - "segurança online"
   - "compras online"
