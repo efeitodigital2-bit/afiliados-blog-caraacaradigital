@@ -2,7 +2,7 @@
 title: "Estratégias de Precificação: O Guia Definitivo para Posicionar Seus Produtos no Mercado Pós-Eleitoral"
 description: "Estratégias de Precificação: O Guia Definitivo para Posicionar Seus Produtos no Mercado Pós-Eleitoral"
 pubDate: "2026-07-13"
-heroImage: "/images/estrategias-de-precificacao-o-guia-definitivo-para-posicionar-seus-produtos-no-m.jpg"
+heroImage: "/images/posts/estrategias-de-precificacao-o-guia-definitivo-para-posicionar-seus-produtos-no-m.jpg"
 tags:
   - "precificação"
   - "marketing"
