@@ -2,7 +2,7 @@
 title: "Investir em Produtos para Campanhas: O Guia Definitivo para Materiais de Divulgação Eficazes [Eleições 2026]"
 description: "Investir em Produtos para Campanhas: O Guia Definitivo para Materiais de Divulgação Eficazes [Eleições 2026]"
 pubDate: "2026-07-13"
-heroImage: "/images/investir-em-produtos-para-campanhas-o-guia-definitivo-para-materiais-de-divulgac.jpg"
+heroImage: "/images/posts/investir-em-produtos-para-campanhas-o-guia-definitivo-para-materiais-de-divulgac.jpg"
 tags:
   - "marketing"
   - "afiliados"
