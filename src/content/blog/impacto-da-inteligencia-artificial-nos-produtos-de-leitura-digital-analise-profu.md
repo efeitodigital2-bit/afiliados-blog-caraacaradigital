@@ -2,7 +2,7 @@
 title: "Impacto da Inteligência Artificial nos Produtos de Leitura Digital [Análise Profunda e Futuro]"
 description: "Impacto da Inteligência Artificial nos Produtos de Leitura Digital [Análise Profunda e Futuro]"
 pubDate: "2026-07-13"
-heroImage: "/images/impacto-da-inteligencia-artificial-nos-produtos-de-leitura-digital-analise-profu.jpg"
+heroImage: "/images/posts/impacto-da-inteligencia-artificial-nos-produtos-de-leitura-digital-analise-profu.jpg"
 tags:
   - "IA"
   - "Leitura Digital"
