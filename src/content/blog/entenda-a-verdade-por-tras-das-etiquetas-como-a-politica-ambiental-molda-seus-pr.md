@@ -2,7 +2,7 @@
 title: "Entenda a verdade por trás das etiquetas: como a política ambiental molda seus produtos"
 description: "Entenda a verdade por trás das etiquetas: como a política ambiental molda seus produtos"
 pubDate: "2026-07-13"
-heroImage: "/images/entenda-a-verdade-por-tras-das-etiquetas-como-a-politica-ambiental-molda-seus-pr.jpg"
+heroImage: "/images/posts/entenda-a-verdade-por-tras-das-etiquetas-como-a-politica-ambiental-molda-seus-pr.jpg"
 tags:
   - "sustentabilidade"
   - "ecologia"
