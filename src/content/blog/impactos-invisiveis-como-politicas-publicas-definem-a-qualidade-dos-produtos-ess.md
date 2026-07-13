@@ -2,7 +2,7 @@
 title: "Impactos Invisíveis: Como Políticas Públicas Definem a Qualidade dos Produtos Essenciais que Você Usa"
 description: "Impactos Invisíveis: Como Políticas Públicas Definem a Qualidade dos Produtos Essenciais que Você Usa"
 pubDate: "2026-07-13"
-heroImage: "/images/impactos-invisiveis-como-politicas-publicas-definem-a-qualidade-dos-produtos-ess.jpg"
+heroImage: "/images/posts/impactos-invisiveis-como-politicas-publicas-definem-a-qualidade-dos-produtos-ess.jpg"
 tags:
   - "políticas públicas"
   - "qualidade de vida"
