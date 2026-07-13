@@ -2,7 +2,7 @@
 title: "Guia de Compras Conscientes: Escolha Produtos de Empresas com Ética Política Comprovada"
 description: "Guia de Compras Conscientes: Escolha Produtos de Empresas com Ética Política Comprovada"
 pubDate: "2026-07-13"
-heroImage: "/images/guia-de-compras-conscientes-escolha-produtos-de-empresas-com-etica-politica-comp.jpg"
+heroImage: "/images/posts/guia-de-compras-conscientes-escolha-produtos-de-empresas-com-etica-politica-comp.jpg"
 tags:
   - "ética"
   - "social"
