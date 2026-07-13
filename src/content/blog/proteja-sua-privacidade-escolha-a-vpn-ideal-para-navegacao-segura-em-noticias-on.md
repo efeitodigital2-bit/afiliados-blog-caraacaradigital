@@ -2,7 +2,7 @@
 title: "Proteja sua Privacidade: Escolha a VPN Ideal para Navegação Segura em Notícias Online [Guia Especialista]"
 description: "Proteja sua Privacidade: Escolha a VPN Ideal para Navegação Segura em Notícias Online [Guia Especialista]"
 pubDate: "2026-07-13"
-heroImage: "/images/proteja-sua-privacidade-escolha-a-vpn-ideal-para-navegacao-segura-em-noticias-on.jpg"
+heroImage: "/images/posts/proteja-sua-privacidade-escolha-a-vpn-ideal-para-navegacao-segura-em-noticias-on.jpg"
 tags:
   - "vpn"
   - "privacidade"
