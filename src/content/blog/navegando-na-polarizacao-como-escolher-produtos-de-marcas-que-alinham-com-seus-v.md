@@ -2,7 +2,7 @@
 title: "Navegando na Polarização: Como Escolher Produtos de Marcas que Alinham com Seus Valores [Passo a Passo Prático]"
 description: "Navegando na Polarização: Como Escolher Produtos de Marcas que Alinham com Seus Valores [Passo a Passo Prático]"
 pubDate: "2026-07-13"
-heroImage: "/images/navegando-na-polarizacao-como-escolher-produtos-de-marcas-que-alinham-com-seus-v.jpg"
+heroImage: "/images/posts/navegando-na-polarizacao-como-escolher-produtos-de-marcas-que-alinham-com-seus-v.jpg"
 tags:
   - "marca"
   - "valores"
