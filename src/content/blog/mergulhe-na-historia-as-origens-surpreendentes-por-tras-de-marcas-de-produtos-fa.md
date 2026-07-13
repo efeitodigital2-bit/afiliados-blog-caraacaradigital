@@ -2,7 +2,7 @@
 title: "Mergulhe na História: As Origens Surpreendentes Por Trás de Marcas de Produtos Famosas"
 description: "Mergulhe na História: As Origens Surpreendentes Por Trás de Marcas de Produtos Famosas"
 pubDate: "2026-07-13"
-heroImage: "/images/mergulhe-na-historia-as-origens-surpreendentes-por-tras-de-marcas-de-produtos-fa.jpg"
+heroImage: "/images/posts/mergulhe-na-historia-as-origens-surpreendentes-por-tras-de-marcas-de-produtos-fa.jpg"
 tags:
   - "colchão"
 ---
