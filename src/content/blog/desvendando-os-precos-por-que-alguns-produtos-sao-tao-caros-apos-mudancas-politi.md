@@ -2,7 +2,7 @@
 title: "Desvendando os Preços: Por Que Alguns Produtos São Tão Caros Após Mudanças Políticas? (Entenda Agora)"
 description: "Desvendando os Preços: Por Que Alguns Produtos São Tão Caros Após Mudanças Políticas? (Entenda Agora)"
 pubDate: "2026-07-13"
-heroImage: "/images/desvendando-os-precos-por-que-alguns-produtos-sao-tao-caros-apos-mudancas-politi.jpg"
+heroImage: "/images/posts/desvendando-os-precos-por-que-alguns-produtos-sao-tao-caros-apos-mudancas-politi.jpg"
 tags:
   - "mercado"
   - "economia"
