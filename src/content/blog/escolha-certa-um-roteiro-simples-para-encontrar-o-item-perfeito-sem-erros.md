@@ -2,7 +2,7 @@
 title: "Escolha Certa: Um Roteiro Simples Para Encontrar o Item Perfeito Sem Erros"
 description: "Escolha Certa: Um Roteiro Simples Para Encontrar o Item Perfeito Sem Erros"
 pubDate: "2026-07-13"
-heroImage: "/images/escolha-certa-um-roteiro-simples-para-encontrar-o-item-perfeito-sem-erros.jpg"
+heroImage: "/images/posts/escolha-certa-um-roteiro-simples-para-encontrar-o-item-perfeito-sem-erros.jpg"
 tags:
   - "produtos"
   - "consumo"
