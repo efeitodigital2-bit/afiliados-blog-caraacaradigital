@@ -2,7 +2,7 @@
 title: "Escassez no Supermercado? Descubra Como Políticas de Preço Afetam a Disponibilidade de Produtos"
 description: "Escassez no Supermercado? Descubra Como Políticas de Preço Afetam a Disponibilidade de Produtos"
 pubDate: "2026-07-13"
-heroImage: "/images/escassez-no-supermercado-descubra-como-politicas-de-preco-afetam-a-disponibilida.jpg"
+heroImage: "/images/posts/escassez-no-supermercado-descubra-como-politicas-de-preco-afetam-a-disponibilida.jpg"
 tags:
   - "preço"
   - "estoque"
