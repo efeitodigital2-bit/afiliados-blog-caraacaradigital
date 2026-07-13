@@ -2,7 +2,7 @@
 title: "Fake News e Produtos Digitais: Como a Tecnologia Ajuda a Filtrar a Verdade na Era da Desinformação"
 description: "Fake News e Produtos Digitais: Como a Tecnologia Ajuda a Filtrar a Verdade na Era da Desinformação"
 pubDate: "2026-07-13"
-heroImage: "/images/fake-news-e-produtos-digitais-como-a-tecnologia-ajuda-a-filtrar-a-verdade-na-era.jpg"
+heroImage: "/images/posts/fake-news-e-produtos-digitais-como-a-tecnologia-ajuda-a-filtrar-a-verdade-na-era.jpg"
 tags:
   - "tecnologia"
   - "desinformação"
