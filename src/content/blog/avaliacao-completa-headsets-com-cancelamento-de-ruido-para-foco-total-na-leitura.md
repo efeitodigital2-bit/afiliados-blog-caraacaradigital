@@ -2,7 +2,7 @@
 title: "Avaliação Completa: Headsets com Cancelamento de Ruído para Foco Total na Leitura de Notícias (Testes Reais)"
 description: "Avaliação Completa: Headsets com Cancelamento de Ruído para Foco Total na Leitura de Notícias (Testes Reais)"
 pubDate: "2026-07-13"
-heroImage: "/images/avaliacao-completa-headsets-com-cancelamento-de-ruido-para-foco-total-na-leitura.jpg"
+heroImage: "/images/posts/avaliacao-completa-headsets-com-cancelamento-de-ruido-para-foco-total-na-leitura.jpg"
 tags:
   - "headsets"
   - "cancelamento de ruído"
